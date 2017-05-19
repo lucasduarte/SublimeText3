@@ -1,0 +1,17 @@
+{
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+	"font_face": "Source Code Pro Semibold",
+	"font_size": 11,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 2,
+	"theme": "Boxy Tomorrow.sublime-theme",
+	"theme_accent_numix": true,
+	"theme_font_md": true,
+	"theme_sidebar_size_xxs": true,
+	"theme_size_md": true,
+	"theme_unified": true
+}

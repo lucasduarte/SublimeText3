@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
+		"Boxy Theme Addon - Mono File Icons",
+		"Boxy Theme Addon - Widget Font Size",
+		"Color Highlighter",
+		"Dockerfile Syntax Highlighting",
+		"Emmet",
+		"ERB Autocomplete",
+		"ERB Snippets",
+		"Package Control",
+		"SublimeERB",
+		"Vuejs Complete Package"
+	]
+}
